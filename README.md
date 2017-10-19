@@ -18,3 +18,7 @@ books
 1. https://www.amazon.com/Mastering-OpenCV-Android-Application-Programming/dp/1783988207
 2. https://github.com/jasam-sheja/image_detection_prototype
 3. http://johnhany.net/2017/08/moaap-chapter-4-codes/
+
+official tutorial
+------------------
+https://docs.opencv.org/trunk/d9/df8/tutorial_root.html
